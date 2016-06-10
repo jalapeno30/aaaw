@@ -1,0 +1,694 @@
+[   INFO] 20160607154616 (com.ilts.anywhere.utils.Logger,logMsg,36)::FileLogPath=C:\Josephs\Current\ilts-server\log\lottery-app-log.log
+[   INFO] 20160607154616 (com.ilts.anywhere.utils.Logger,logMsg,36)::LogFileSize=5
+[   INFO] 20160607154616 (com.ilts.anywhere.utils.Logger,logMsg,36)::LogTypes=SEVERE|INFO|DEBUG
+[   INFO] 20160607154616 (com.ilts.anywhere.utils.Logger,logMsg,36)::DetailedLogInfo=True
+[  DEBUG] 20160607154651 (com.ilts.anywhere.utils.Logger,logMsg,36)::Invalid username or password for Admin
+[   INFO] 20160607154651 (com.ilts.anywhere.utils.Logger,logMsg,36)::ForbiddenLoginResponse: Forbibben response response and set data Status to 'error' for Login
+[   INFO] 20160608140200 (com.ilts.anywhere.utils.Logger,logMsg,36)::FileLogPath=C:\Josephs\Current\ilts-server\log\lottery-app-log.log
+[   INFO] 20160608140200 (com.ilts.anywhere.utils.Logger,logMsg,36)::LogFileSize=5
+[   INFO] 20160608140200 (com.ilts.anywhere.utils.Logger,logMsg,36)::LogTypes=SEVERE|INFO|DEBUG
+[   INFO] 20160608140200 (com.ilts.anywhere.utils.Logger,logMsg,36)::DetailedLogInfo=True
+[   INFO] 20160608140247 (com.ilts.anywhere.utils.Logger,logMsg,36)::Success Login 
+[   INFO] 20160608140247 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160608140250 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160608140250 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160608140250 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160608162317 (com.ilts.anywhere.utils.Logger,logMsg,36)::FileLogPath=C:\Josephs\Current\ilts-server\log\lottery-app-log.log
+[   INFO] 20160608162317 (com.ilts.anywhere.utils.Logger,logMsg,36)::LogFileSize=5
+[   INFO] 20160608162317 (com.ilts.anywhere.utils.Logger,logMsg,36)::LogTypes=SEVERE|INFO|DEBUG
+[   INFO] 20160608162317 (com.ilts.anywhere.utils.Logger,logMsg,36)::DetailedLogInfo=True
+[   INFO] 20160608162353 (com.ilts.anywhere.utils.Logger,logMsg,36)::Success Login 
+[   INFO] 20160608162353 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160608162355 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160608162355 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160608162355 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160608162355 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160608165104 (com.ilts.anywhere.utils.Logger,logMsg,36)::FileLogPath=C:\Josephs\Current\ilts-server\log\lottery-app-log.log
+[   INFO] 20160608165104 (com.ilts.anywhere.utils.Logger,logMsg,36)::LogFileSize=5
+[   INFO] 20160608165104 (com.ilts.anywhere.utils.Logger,logMsg,36)::LogTypes=SEVERE|INFO|DEBUG
+[   INFO] 20160608165104 (com.ilts.anywhere.utils.Logger,logMsg,36)::DetailedLogInfo=True
+[   INFO] 20160608165129 (com.ilts.anywhere.utils.Logger,logMsg,36)::Success Login 
+[   INFO] 20160608165129 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160608165131 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160608165131 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160608165131 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160608165131 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160608170245 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160608170245 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160608170245 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160608170245 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160608170336 (com.ilts.anywhere.utils.Logger,logMsg,36)::FileLogPath=C:\Josephs\Current\ilts-server\log\lottery-app-log.log
+[   INFO] 20160608170336 (com.ilts.anywhere.utils.Logger,logMsg,36)::LogFileSize=5
+[   INFO] 20160608170336 (com.ilts.anywhere.utils.Logger,logMsg,36)::LogTypes=SEVERE|INFO|DEBUG
+[   INFO] 20160608170336 (com.ilts.anywhere.utils.Logger,logMsg,36)::DetailedLogInfo=True
+[   INFO] 20160608170350 (com.ilts.anywhere.utils.Logger,logMsg,36)::Success Login 
+[   INFO] 20160608170350 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160608170352 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160608170352 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160608170352 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160608172346 (com.ilts.anywhere.utils.Logger,logMsg,36)::FileLogPath=C:\Josephs\Current\ilts-server\log\lottery-app-log.log
+[   INFO] 20160608172346 (com.ilts.anywhere.utils.Logger,logMsg,36)::LogFileSize=5
+[   INFO] 20160608172346 (com.ilts.anywhere.utils.Logger,logMsg,36)::LogTypes=SEVERE|INFO|DEBUG
+[   INFO] 20160608172346 (com.ilts.anywhere.utils.Logger,logMsg,36)::DetailedLogInfo=True
+[   INFO] 20160608172402 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160608172402 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160608172403 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160608172403 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160608172510 (com.ilts.anywhere.utils.Logger,logMsg,36)::Success Login 
+[   INFO] 20160608172510 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160608172513 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160608172513 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160608172513 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160608180050 (com.ilts.anywhere.utils.Logger,logMsg,36)::FileLogPath=C:\Josephs\Current\ilts-server\log\lottery-app-log.log
+[   INFO] 20160608180050 (com.ilts.anywhere.utils.Logger,logMsg,36)::LogFileSize=5
+[   INFO] 20160608180050 (com.ilts.anywhere.utils.Logger,logMsg,36)::LogTypes=SEVERE|INFO|DEBUG
+[   INFO] 20160608180050 (com.ilts.anywhere.utils.Logger,logMsg,36)::DetailedLogInfo=True
+[   INFO] 20160608180109 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160608180109 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160608180109 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160608180147 (com.ilts.anywhere.utils.Logger,logMsg,36)::Success Login 
+[   INFO] 20160608180147 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160608180149 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160608180149 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160608180149 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160608182454 (com.ilts.anywhere.utils.Logger,logMsg,36)::FileLogPath=C:\Josephs\Current\ilts-server\log\lottery-app-log.log
+[   INFO] 20160608182454 (com.ilts.anywhere.utils.Logger,logMsg,36)::LogFileSize=5
+[   INFO] 20160608182454 (com.ilts.anywhere.utils.Logger,logMsg,36)::LogTypes=SEVERE|INFO|DEBUG
+[   INFO] 20160608182454 (com.ilts.anywhere.utils.Logger,logMsg,36)::DetailedLogInfo=True
+[   INFO] 20160608182501 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160608182501 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160608182501 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160608184130 (com.ilts.anywhere.utils.Logger,logMsg,36)::FileLogPath=C:\Josephs\Current\ilts-server\log\lottery-app-log.log
+[   INFO] 20160608184130 (com.ilts.anywhere.utils.Logger,logMsg,36)::LogFileSize=5
+[   INFO] 20160608184130 (com.ilts.anywhere.utils.Logger,logMsg,36)::LogTypes=SEVERE|INFO|DEBUG
+[   INFO] 20160608184130 (com.ilts.anywhere.utils.Logger,logMsg,36)::DetailedLogInfo=True
+[   INFO] 20160608184138 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160608184138 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160608184138 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160608184732 (com.ilts.anywhere.utils.Logger,logMsg,36)::FileLogPath=C:\Josephs\Current\ilts-server\log\lottery-app-log.log
+[   INFO] 20160608184732 (com.ilts.anywhere.utils.Logger,logMsg,36)::LogFileSize=5
+[   INFO] 20160608184732 (com.ilts.anywhere.utils.Logger,logMsg,36)::LogTypes=SEVERE|INFO|DEBUG
+[   INFO] 20160608184732 (com.ilts.anywhere.utils.Logger,logMsg,36)::DetailedLogInfo=True
+[   INFO] 20160608184743 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160608184743 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160608184743 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160608184907 (com.ilts.anywhere.utils.Logger,logMsg,36)::FileLogPath=C:\Josephs\Current\ilts-server\log\lottery-app-log.log
+[   INFO] 20160608184907 (com.ilts.anywhere.utils.Logger,logMsg,36)::LogFileSize=5
+[   INFO] 20160608184907 (com.ilts.anywhere.utils.Logger,logMsg,36)::LogTypes=SEVERE|INFO|DEBUG
+[   INFO] 20160608184907 (com.ilts.anywhere.utils.Logger,logMsg,36)::DetailedLogInfo=True
+[   INFO] 20160608184949 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160608184949 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160608184949 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160608185121 (com.ilts.anywhere.utils.Logger,logMsg,36)::FileLogPath=C:\Josephs\Current\ilts-server\log\lottery-app-log.log
+[   INFO] 20160608185121 (com.ilts.anywhere.utils.Logger,logMsg,36)::LogFileSize=5
+[   INFO] 20160608185121 (com.ilts.anywhere.utils.Logger,logMsg,36)::LogTypes=SEVERE|INFO|DEBUG
+[   INFO] 20160608185121 (com.ilts.anywhere.utils.Logger,logMsg,36)::DetailedLogInfo=True
+[   INFO] 20160608185126 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160608185126 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160608185126 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160608185631 (com.ilts.anywhere.utils.Logger,logMsg,36)::FileLogPath=C:\Josephs\Current\ilts-server\log\lottery-app-log.log
+[   INFO] 20160608185631 (com.ilts.anywhere.utils.Logger,logMsg,36)::LogFileSize=5
+[   INFO] 20160608185631 (com.ilts.anywhere.utils.Logger,logMsg,36)::LogTypes=SEVERE|INFO|DEBUG
+[   INFO] 20160608185631 (com.ilts.anywhere.utils.Logger,logMsg,36)::DetailedLogInfo=True
+[   INFO] 20160608185640 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160608185640 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160608185640 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160608190846 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160608190846 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160608190846 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160608191005 (com.ilts.anywhere.utils.Logger,logMsg,36)::FileLogPath=C:\Josephs\Current\ilts-server\log\lottery-app-log.log
+[   INFO] 20160608191005 (com.ilts.anywhere.utils.Logger,logMsg,36)::LogFileSize=5
+[   INFO] 20160608191005 (com.ilts.anywhere.utils.Logger,logMsg,36)::LogTypes=SEVERE|INFO|DEBUG
+[   INFO] 20160608191005 (com.ilts.anywhere.utils.Logger,logMsg,36)::DetailedLogInfo=True
+[   INFO] 20160608191142 (com.ilts.anywhere.utils.Logger,logMsg,36)::Success Login 
+[   INFO] 20160608191142 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160608191146 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160608191146 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160608191146 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160608191146 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160608191550 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160608191550 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160608191550 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160608192131 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160608192131 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160608192131 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160608192424 (com.ilts.anywhere.utils.Logger,logMsg,36)::FileLogPath=C:\Josephs\Current\ilts-server\log\lottery-app-log.log
+[   INFO] 20160608192424 (com.ilts.anywhere.utils.Logger,logMsg,36)::LogFileSize=5
+[   INFO] 20160608192424 (com.ilts.anywhere.utils.Logger,logMsg,36)::LogTypes=SEVERE|INFO|DEBUG
+[   INFO] 20160608192424 (com.ilts.anywhere.utils.Logger,logMsg,36)::DetailedLogInfo=True
+[   INFO] 20160608192438 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160608192438 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160608192438 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160608192508 (com.ilts.anywhere.utils.Logger,logMsg,36)::Success Login 
+[   INFO] 20160608192508 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160608192510 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160608192510 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160608192511 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[ SEVERE] 20160608194328 (com.ilts.anywhere.logging.utils.LogUtils,logException,93)::SQLIntegrityConstraintViolationException - Duplicate entry:user_name
+com.ilts.anywhere.authentication.UserDAOImpl.register(UserDAOImpl.java:76)
+com.ilts.anywhere.authentication.AuthenticationService.registerUser(AuthenticationService.java:114)
+com.ilts.anywhere.authentication.AuthenticationController.register(AuthenticationController.java:170)
+sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+java.lang.reflect.Method.invoke(Unknown Source)
+org.springframework.web.method.support.InvocableHandlerMethod.invoke(InvocableHandlerMethod.java:215)
+org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:132)
+org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:104)
+org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandleMethod(RequestMappingHandlerAdapter.java:749)
+org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:689)
+org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:83)
+org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:938)
+org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:870)
+org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:961)
+org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:863)
+javax.servlet.http.HttpServlet.service(HttpServlet.java:646)
+org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:837)
+javax.servlet.http.HttpServlet.service(HttpServlet.java:727)
+org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)
+org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:77)
+org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:108)
+org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+com.ilts.anywhere.SimpleCORSFilter.doFilter(SimpleCORSFilter.java:22)
+org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:220)
+org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:122)
+org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:501)
+org.apache.catalina.valves.RemoteIpValve.invoke(RemoteIpValve.java:683)
+org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:170)
+org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:98)
+org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:408)
+org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1040)
+org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:607)
+org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1721)
+org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.run(NioEndpoint.java:1679)
+java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+[  DEBUG] 20160608194328 (com.ilts.anywhere.utils.Logger,logMsg,36)::ErrorResponse: Making error response and set Status to 'error'
+[ SEVERE] 20160608194437 (com.ilts.anywhere.logging.utils.LogUtils,logException,93)::SQLIntegrityConstraintViolationException - Duplicate entry:user_name
+com.ilts.anywhere.authentication.UserDAOImpl.register(UserDAOImpl.java:76)
+com.ilts.anywhere.authentication.AuthenticationService.registerUser(AuthenticationService.java:114)
+com.ilts.anywhere.authentication.AuthenticationController.register(AuthenticationController.java:170)
+sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+java.lang.reflect.Method.invoke(Unknown Source)
+org.springframework.web.method.support.InvocableHandlerMethod.invoke(InvocableHandlerMethod.java:215)
+org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:132)
+org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:104)
+org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandleMethod(RequestMappingHandlerAdapter.java:749)
+org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:689)
+org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:83)
+org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:938)
+org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:870)
+org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:961)
+org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:863)
+javax.servlet.http.HttpServlet.service(HttpServlet.java:646)
+org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:837)
+javax.servlet.http.HttpServlet.service(HttpServlet.java:727)
+org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)
+org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:77)
+org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:108)
+org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+com.ilts.anywhere.SimpleCORSFilter.doFilter(SimpleCORSFilter.java:22)
+org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:220)
+org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:122)
+org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:501)
+org.apache.catalina.valves.RemoteIpValve.invoke(RemoteIpValve.java:683)
+org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:170)
+org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:98)
+org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:408)
+org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1040)
+org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:607)
+org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1721)
+org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.run(NioEndpoint.java:1679)
+java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+[  DEBUG] 20160608194437 (com.ilts.anywhere.utils.Logger,logMsg,36)::ErrorResponse: Making error response and set Status to 'error'
+[   INFO] 20160608194553 (com.ilts.anywhere.utils.Logger,logMsg,36)::Successfully Registered  Admin12
+[   INFO] 20160608194553 (com.ilts.anywhere.utils.Logger,logMsg,36)::RegistrationSuccessResponse: Making success response and set Status to 'success' for Registration
+[   INFO] 20160608194732 (com.ilts.anywhere.utils.Logger,logMsg,36)::Successfully Registered  register
+[   INFO] 20160608194732 (com.ilts.anywhere.utils.Logger,logMsg,36)::RegistrationSuccessResponse: Making success response and set Status to 'success' for Registration
+[   INFO] 20160609091728 (com.ilts.anywhere.utils.Logger,logMsg,36)::FileLogPath=C:\Josephs\Current\ilts-server\log\lottery-app-log.log
+[   INFO] 20160609091728 (com.ilts.anywhere.utils.Logger,logMsg,36)::LogFileSize=5
+[   INFO] 20160609091728 (com.ilts.anywhere.utils.Logger,logMsg,36)::LogTypes=SEVERE|INFO|DEBUG
+[   INFO] 20160609091728 (com.ilts.anywhere.utils.Logger,logMsg,36)::DetailedLogInfo=True
+[   INFO] 20160609091749 (com.ilts.anywhere.utils.Logger,logMsg,36)::Success Login 
+[   INFO] 20160609091749 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609091751 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609091751 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609091751 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609091751 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609092012 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609092012 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609092012 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609092012 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609115408 (com.ilts.anywhere.utils.Logger,logMsg,36)::FileLogPath=C:\Josephs\Current\ilts-server\log\lottery-app-log.log
+[   INFO] 20160609115408 (com.ilts.anywhere.utils.Logger,logMsg,36)::LogFileSize=5
+[   INFO] 20160609115408 (com.ilts.anywhere.utils.Logger,logMsg,36)::LogTypes=SEVERE|INFO|DEBUG
+[   INFO] 20160609115408 (com.ilts.anywhere.utils.Logger,logMsg,36)::DetailedLogInfo=True
+[   INFO] 20160609115447 (com.ilts.anywhere.utils.Logger,logMsg,36)::Success Login 
+[   INFO] 20160609115447 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609115449 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609115449 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609115449 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609115449 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609141658 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609143849 (com.ilts.anywhere.utils.Logger,logMsg,36)::FileLogPath=C:\Josephs\Current\ilts-server\log\lottery-app-log.log
+[   INFO] 20160609143849 (com.ilts.anywhere.utils.Logger,logMsg,36)::LogFileSize=5
+[   INFO] 20160609143849 (com.ilts.anywhere.utils.Logger,logMsg,36)::LogTypes=SEVERE|INFO|DEBUG
+[   INFO] 20160609143849 (com.ilts.anywhere.utils.Logger,logMsg,36)::DetailedLogInfo=True
+[   INFO] 20160609143928 (com.ilts.anywhere.utils.Logger,logMsg,36)::Success Login 
+[   INFO] 20160609143928 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609143930 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609143930 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609143930 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609143930 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609160343 (com.ilts.anywhere.utils.Logger,logMsg,36)::FileLogPath=C:\Josephs\Current\ilts-server\log\lottery-app-log.log
+[   INFO] 20160609160343 (com.ilts.anywhere.utils.Logger,logMsg,36)::LogFileSize=5
+[   INFO] 20160609160343 (com.ilts.anywhere.utils.Logger,logMsg,36)::LogTypes=SEVERE|INFO|DEBUG
+[   INFO] 20160609160343 (com.ilts.anywhere.utils.Logger,logMsg,36)::DetailedLogInfo=True
+[   INFO] 20160609160404 (com.ilts.anywhere.utils.Logger,logMsg,36)::Success Login 
+[   INFO] 20160609160404 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609160517 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609160517 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609160517 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609160517 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609160523 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609160523 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609160523 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609160523 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609160537 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609160537 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609160537 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609160537 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609160655 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609160655 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609160655 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609160655 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609161126 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609161615 (com.ilts.anywhere.utils.Logger,logMsg,36)::FileLogPath=C:\Josephs\Current\ilts-server\log\lottery-app-log.log
+[   INFO] 20160609161615 (com.ilts.anywhere.utils.Logger,logMsg,36)::LogFileSize=5
+[   INFO] 20160609161615 (com.ilts.anywhere.utils.Logger,logMsg,36)::LogTypes=SEVERE|INFO|DEBUG
+[   INFO] 20160609161615 (com.ilts.anywhere.utils.Logger,logMsg,36)::DetailedLogInfo=True
+[   INFO] 20160609161627 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609161627 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609161627 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609161627 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609161921 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609170434 (com.ilts.anywhere.utils.Logger,logMsg,36)::FileLogPath=C:\Josephs\Current\ilts-server\log\lottery-app-log.log
+[   INFO] 20160609170434 (com.ilts.anywhere.utils.Logger,logMsg,36)::LogFileSize=5
+[   INFO] 20160609170434 (com.ilts.anywhere.utils.Logger,logMsg,36)::LogTypes=SEVERE|INFO|DEBUG
+[   INFO] 20160609170434 (com.ilts.anywhere.utils.Logger,logMsg,36)::DetailedLogInfo=True
+[   INFO] 20160609170509 (com.ilts.anywhere.utils.Logger,logMsg,36)::Success Login 
+[   INFO] 20160609170509 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609170511 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609170511 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609170511 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609170511 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609171043 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609171043 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609171043 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609171043 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609172632 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609172641 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609173650 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609173650 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609173650 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609173717 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609174547 (com.ilts.anywhere.utils.Logger,logMsg,36)::FileLogPath=C:\Josephs\Current\ilts-server\log\lottery-app-log.log
+[   INFO] 20160609174547 (com.ilts.anywhere.utils.Logger,logMsg,36)::LogFileSize=5
+[   INFO] 20160609174547 (com.ilts.anywhere.utils.Logger,logMsg,36)::LogTypes=SEVERE|INFO|DEBUG
+[   INFO] 20160609174547 (com.ilts.anywhere.utils.Logger,logMsg,36)::DetailedLogInfo=True
+[   INFO] 20160609174557 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609174633 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609174633 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609174633 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609174633 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609174651 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609174651 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609174651 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609174654 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609174711 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609174711 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609174711 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609174711 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609181405 (com.ilts.anywhere.utils.Logger,logMsg,36)::FileLogPath=C:\Josephs\Current\ilts-server\log\lottery-app-log.log
+[   INFO] 20160609181405 (com.ilts.anywhere.utils.Logger,logMsg,36)::LogFileSize=5
+[   INFO] 20160609181405 (com.ilts.anywhere.utils.Logger,logMsg,36)::LogTypes=SEVERE|INFO|DEBUG
+[   INFO] 20160609181405 (com.ilts.anywhere.utils.Logger,logMsg,36)::DetailedLogInfo=True
+[   INFO] 20160609181433 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609181433 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609181433 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609181436 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609181439 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609181439 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609181439 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609181439 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609181650 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609181650 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609181650 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609181656 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609181738 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609181738 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609181738 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609181738 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609181749 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609181749 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609181749 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609181800 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609182247 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609182248 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609182248 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609182248 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609182303 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609182303 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609182303 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609182315 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609185745 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609185812 (com.ilts.anywhere.utils.Logger,logMsg,36)::Success Login 
+[   INFO] 20160609185812 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609185817 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609185817 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609185817 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609185819 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609185843 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609185843 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609185843 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609185843 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609185932 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609185932 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609185932 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609185934 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609185942 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609185942 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609185942 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609185942 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609190130 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609190130 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609190130 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609190132 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609190141 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609190141 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609190141 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609190141 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609190156 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609190156 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609190156 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609190159 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609190208 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609190208 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609190208 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609190208 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609190228 (com.ilts.anywhere.utils.Logger,logMsg,36)::Success Login 
+[   INFO] 20160609190228 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609190229 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609190229 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609190231 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609190239 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609190239 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609190239 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160609190239 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610091127 (com.ilts.anywhere.utils.Logger,logMsg,36)::FileLogPath=C:\Josephs\Current\ilts-server\log\lottery-app-log.log
+[   INFO] 20160610091127 (com.ilts.anywhere.utils.Logger,logMsg,36)::LogFileSize=5
+[   INFO] 20160610091127 (com.ilts.anywhere.utils.Logger,logMsg,36)::LogTypes=SEVERE|INFO|DEBUG
+[   INFO] 20160610091127 (com.ilts.anywhere.utils.Logger,logMsg,36)::DetailedLogInfo=True
+[   INFO] 20160610091230 (com.ilts.anywhere.utils.Logger,logMsg,36)::Success Login 
+[   INFO] 20160610091230 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610091232 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610091232 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610091232 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610091236 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610091355 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610091355 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610091355 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610091355 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610092736 (com.ilts.anywhere.utils.Logger,logMsg,36)::FileLogPath=C:\Josephs\Current\ilts-server\log\lottery-app-log.log
+[   INFO] 20160610092736 (com.ilts.anywhere.utils.Logger,logMsg,36)::LogFileSize=5
+[   INFO] 20160610092736 (com.ilts.anywhere.utils.Logger,logMsg,36)::LogTypes=SEVERE|INFO|DEBUG
+[   INFO] 20160610092736 (com.ilts.anywhere.utils.Logger,logMsg,36)::DetailedLogInfo=True
+[   INFO] 20160610092759 (com.ilts.anywhere.utils.Logger,logMsg,36)::Success Login 
+[   INFO] 20160610092759 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610092803 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610092803 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610092803 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610092812 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610092928 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610092928 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610092928 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610092928 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610093802 (com.ilts.anywhere.utils.Logger,logMsg,36)::FileLogPath=C:\Josephs\Current\ilts-server\log\lottery-app-log.log
+[   INFO] 20160610093802 (com.ilts.anywhere.utils.Logger,logMsg,36)::LogFileSize=5
+[   INFO] 20160610093802 (com.ilts.anywhere.utils.Logger,logMsg,36)::LogTypes=SEVERE|INFO|DEBUG
+[   INFO] 20160610093802 (com.ilts.anywhere.utils.Logger,logMsg,36)::DetailedLogInfo=True
+[   INFO] 20160610093818 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610093818 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610093821 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610094032 (com.ilts.anywhere.utils.Logger,logMsg,36)::FileLogPath=C:\Josephs\Current\ilts-server\log\lottery-app-log.log
+[   INFO] 20160610094032 (com.ilts.anywhere.utils.Logger,logMsg,36)::LogFileSize=5
+[   INFO] 20160610094032 (com.ilts.anywhere.utils.Logger,logMsg,36)::LogTypes=SEVERE|INFO|DEBUG
+[   INFO] 20160610094032 (com.ilts.anywhere.utils.Logger,logMsg,36)::DetailedLogInfo=True
+[   INFO] 20160610094039 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610094039 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610094144 (com.ilts.anywhere.utils.Logger,logMsg,36)::FileLogPath=C:\Josephs\Current\ilts-server\log\lottery-app-log.log
+[   INFO] 20160610094144 (com.ilts.anywhere.utils.Logger,logMsg,36)::LogFileSize=5
+[   INFO] 20160610094144 (com.ilts.anywhere.utils.Logger,logMsg,36)::LogTypes=SEVERE|INFO|DEBUG
+[   INFO] 20160610094144 (com.ilts.anywhere.utils.Logger,logMsg,36)::DetailedLogInfo=True
+[   INFO] 20160610094151 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610094152 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610094152 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610094343 (com.ilts.anywhere.utils.Logger,logMsg,36)::FileLogPath=C:\Josephs\Current\ilts-server\log\lottery-app-log.log
+[   INFO] 20160610094343 (com.ilts.anywhere.utils.Logger,logMsg,36)::LogFileSize=5
+[   INFO] 20160610094343 (com.ilts.anywhere.utils.Logger,logMsg,36)::LogTypes=SEVERE|INFO|DEBUG
+[   INFO] 20160610094343 (com.ilts.anywhere.utils.Logger,logMsg,36)::DetailedLogInfo=True
+[   INFO] 20160610094400 (com.ilts.anywhere.utils.Logger,logMsg,36)::Success Login 
+[   INFO] 20160610094400 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610094403 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610094403 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610094420 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610094450 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610094450 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610094450 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610094450 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610095512 (com.ilts.anywhere.utils.Logger,logMsg,36)::FileLogPath=C:\Josephs\Current\ilts-server\log\lottery-app-log.log
+[   INFO] 20160610095512 (com.ilts.anywhere.utils.Logger,logMsg,36)::LogFileSize=5
+[   INFO] 20160610095512 (com.ilts.anywhere.utils.Logger,logMsg,36)::LogTypes=SEVERE|INFO|DEBUG
+[   INFO] 20160610095512 (com.ilts.anywhere.utils.Logger,logMsg,36)::DetailedLogInfo=True
+[   INFO] 20160610095621 (com.ilts.anywhere.utils.Logger,logMsg,36)::Success Login 
+[   INFO] 20160610095621 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610095632 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610095632 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610095632 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610095643 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610095715 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610095715 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610095715 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610095715 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610095839 (com.ilts.anywhere.utils.Logger,logMsg,36)::FileLogPath=C:\Josephs\Current\ilts-server\log\lottery-app-log.log
+[   INFO] 20160610095839 (com.ilts.anywhere.utils.Logger,logMsg,36)::LogFileSize=5
+[   INFO] 20160610095839 (com.ilts.anywhere.utils.Logger,logMsg,36)::LogTypes=SEVERE|INFO|DEBUG
+[   INFO] 20160610095839 (com.ilts.anywhere.utils.Logger,logMsg,36)::DetailedLogInfo=True
+[   INFO] 20160610095854 (com.ilts.anywhere.utils.Logger,logMsg,36)::Success Login 
+[   INFO] 20160610095854 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610095855 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610095855 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610095856 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610095905 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610095905 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610095905 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610095905 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610100356 (com.ilts.anywhere.utils.Logger,logMsg,36)::FileLogPath=C:\Josephs\Current\ilts-server\log\lottery-app-log.log
+[   INFO] 20160610100356 (com.ilts.anywhere.utils.Logger,logMsg,36)::LogFileSize=5
+[   INFO] 20160610100356 (com.ilts.anywhere.utils.Logger,logMsg,36)::LogTypes=SEVERE|INFO|DEBUG
+[   INFO] 20160610100356 (com.ilts.anywhere.utils.Logger,logMsg,36)::DetailedLogInfo=True
+[   INFO] 20160610100406 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610100406 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610100406 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610100411 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610100425 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610100425 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610100425 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610100425 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610100946 (com.ilts.anywhere.utils.Logger,logMsg,36)::FileLogPath=C:\Josephs\Current\ilts-server\log\lottery-app-log.log
+[   INFO] 20160610100946 (com.ilts.anywhere.utils.Logger,logMsg,36)::LogFileSize=5
+[   INFO] 20160610100946 (com.ilts.anywhere.utils.Logger,logMsg,36)::LogTypes=SEVERE|INFO|DEBUG
+[   INFO] 20160610100946 (com.ilts.anywhere.utils.Logger,logMsg,36)::DetailedLogInfo=True
+[   INFO] 20160610101006 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610101006 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610101006 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610101007 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610101031 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610101031 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610101031 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610101031 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610101910 (com.ilts.anywhere.utils.Logger,logMsg,36)::FileLogPath=C:\Josephs\Current\ilts-server\log\lottery-app-log.log
+[   INFO] 20160610101910 (com.ilts.anywhere.utils.Logger,logMsg,36)::LogFileSize=5
+[   INFO] 20160610101910 (com.ilts.anywhere.utils.Logger,logMsg,36)::LogTypes=SEVERE|INFO|DEBUG
+[   INFO] 20160610101910 (com.ilts.anywhere.utils.Logger,logMsg,36)::DetailedLogInfo=True
+[   INFO] 20160610101920 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610101920 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610101920 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610101922 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610101957 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610101957 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610101957 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610101957 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610102208 (com.ilts.anywhere.utils.Logger,logMsg,36)::FileLogPath=C:\Josephs\Current\ilts-server\log\lottery-app-log.log
+[   INFO] 20160610102208 (com.ilts.anywhere.utils.Logger,logMsg,36)::LogFileSize=5
+[   INFO] 20160610102208 (com.ilts.anywhere.utils.Logger,logMsg,36)::LogTypes=SEVERE|INFO|DEBUG
+[   INFO] 20160610102208 (com.ilts.anywhere.utils.Logger,logMsg,36)::DetailedLogInfo=True
+[   INFO] 20160610102225 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610102225 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610102225 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610102227 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610102259 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610102259 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610102259 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610102259 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610103235 (com.ilts.anywhere.utils.Logger,logMsg,36)::FileLogPath=C:\Josephs\Current\ilts-server\log\lottery-app-log.log
+[   INFO] 20160610103235 (com.ilts.anywhere.utils.Logger,logMsg,36)::LogFileSize=5
+[   INFO] 20160610103235 (com.ilts.anywhere.utils.Logger,logMsg,36)::LogTypes=SEVERE|INFO|DEBUG
+[   INFO] 20160610103235 (com.ilts.anywhere.utils.Logger,logMsg,36)::DetailedLogInfo=True
+[   INFO] 20160610103246 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610103246 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610103246 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610103248 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610103304 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610103304 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610103304 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610103304 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610103434 (com.ilts.anywhere.utils.Logger,logMsg,36)::FileLogPath=C:\Josephs\Current\ilts-server\log\lottery-app-log.log
+[   INFO] 20160610103434 (com.ilts.anywhere.utils.Logger,logMsg,36)::LogFileSize=5
+[   INFO] 20160610103434 (com.ilts.anywhere.utils.Logger,logMsg,36)::LogTypes=SEVERE|INFO|DEBUG
+[   INFO] 20160610103434 (com.ilts.anywhere.utils.Logger,logMsg,36)::DetailedLogInfo=True
+[   INFO] 20160610103441 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610103442 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610103442 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610103443 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610103455 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610103455 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610103455 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610103455 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610104626 (com.ilts.anywhere.utils.Logger,logMsg,36)::FileLogPath=C:\Josephs\Current\ilts-server\log\lottery-app-log.log
+[   INFO] 20160610104626 (com.ilts.anywhere.utils.Logger,logMsg,36)::LogFileSize=5
+[   INFO] 20160610104626 (com.ilts.anywhere.utils.Logger,logMsg,36)::LogTypes=SEVERE|INFO|DEBUG
+[   INFO] 20160610104626 (com.ilts.anywhere.utils.Logger,logMsg,36)::DetailedLogInfo=True
+[   INFO] 20160610104633 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610104633 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610104633 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610104635 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610104706 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610104707 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610104707 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610104707 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610105319 (com.ilts.anywhere.utils.Logger,logMsg,36)::FileLogPath=C:\Josephs\Current\ilts-server\log\lottery-app-log.log
+[   INFO] 20160610105319 (com.ilts.anywhere.utils.Logger,logMsg,36)::LogFileSize=5
+[   INFO] 20160610105319 (com.ilts.anywhere.utils.Logger,logMsg,36)::LogTypes=SEVERE|INFO|DEBUG
+[   INFO] 20160610105319 (com.ilts.anywhere.utils.Logger,logMsg,36)::DetailedLogInfo=True
+[   INFO] 20160610105350 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610105351 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610105351 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610105352 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610105406 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610105406 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610105406 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610105406 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610105406 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610105406 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610105406 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610105406 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610105501 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610105652 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610105735 (com.ilts.anywhere.utils.Logger,logMsg,36)::FileLogPath=C:\Josephs\Current\ilts-server\log\lottery-app-log.log
+[   INFO] 20160610105735 (com.ilts.anywhere.utils.Logger,logMsg,36)::LogFileSize=5
+[   INFO] 20160610105735 (com.ilts.anywhere.utils.Logger,logMsg,36)::LogTypes=SEVERE|INFO|DEBUG
+[   INFO] 20160610105735 (com.ilts.anywhere.utils.Logger,logMsg,36)::DetailedLogInfo=True
+[   INFO] 20160610105744 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610105744 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610105744 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610105746 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610105753 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610105754 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610105754 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610105754 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610105754 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610105754 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610105754 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610105754 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610110031 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610110031 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610110031 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610110043 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610110053 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610110053 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610110053 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610110053 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610110053 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610110053 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610110053 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610110053 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610110846 (com.ilts.anywhere.utils.Logger,logMsg,36)::Success Login 
+[   INFO] 20160610110846 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610110848 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610110848 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610110848 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610110901 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610111043 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610111043 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610111043 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610111043 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610111043 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610111043 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610111043 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610111043 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610111233 (com.ilts.anywhere.utils.Logger,logMsg,36)::Success Login 
+[   INFO] 20160610111233 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610111235 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610111235 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610111235 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610111235 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610111235 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610111236 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610111236 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610111236 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610111236 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610111236 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610111236 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610111236 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610111257 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610111257 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610111257 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610111305 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610111653 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610111653 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610111653 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610111653 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610111653 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610111653 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610111653 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610111653 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610112356 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610112356 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610112356 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610112356 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610112357 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610112357 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610112357 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610112357 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610112357 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610112357 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610112357 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
+[   INFO] 20160610112357 (com.ilts.anywhere.utils.Logger,logMsg,36)::AcceptedLoginResponse: Making success response and set data Status to 'success' for Login
